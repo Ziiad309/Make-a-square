@@ -1,0 +1,9 @@
+com\mycompany\os_project\AppController.class
+com\mycompany\os_project\Board.class
+com\mycompany\os_project\PiecesModel.class
+com\mycompany\os_project\constants.class
+com\mycompany\os_project\Paralleling.class
+module-info.class
+com\mycompany\os_project\Piece.class
+com\mycompany\os_project\MakeASquare.class
+com\mycompany\os_project\App.class
